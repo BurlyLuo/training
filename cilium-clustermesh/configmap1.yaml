@@ -1,0 +1,7 @@
+configInline:
+  peers:
+  address-pools:
+  - name: default
+    protocol: layer2
+    addresses:
+    - 172.18.0.50-172.18.0.99
